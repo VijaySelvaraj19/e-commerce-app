@@ -35,5 +35,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/shoestore.git
-   cd shoestore
+   git clone https://github.com/VijaySelvaraj19/e-commerce-app.git
+   cd e-commerce-app 
+
+2.Fetch dependencies:
+    ```bash
+    flutter pub get
+    
+3.Run the App:
+    ```bash
+    flutter run
