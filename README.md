@@ -10,9 +10,7 @@
 - **Product Search:** Find shoes by brand, size, or category.
 - **Product Details:** View images, descriptions, and reviews.
 - **Shopping Cart:** Add items to the cart and manage your selections.
-- **User Authentication:** Sign up, log in, and manage profiles securely.
-- **Order History:** View and manage past orders.
-- **Responsive Design:** Works on both Android and iOS devices.
+- **Responsive Design:** Works on all Android devices.
 
 ## Screenshots
 
@@ -39,9 +37,9 @@ To run this project locally, follow these steps:
    cd e-commerce-app 
 
 2.Fetch dependencies:
-    ```bash
+   
     flutter pub get
     
 3.Run the App:
-    ```bash
+    
     flutter run
