@@ -1,7 +1,5 @@
 # ShoeStore - Flutter E-Commerce App
 
-![ShoeStore Logo](link-to-your-logo.png)
-
 ## Overview
 
 **ShoeStore** is a modern and intuitive e-commerce application for shoe shopping. Built using Flutter and Dart, it offers a seamless shopping experience with a wide variety of products, easy navigation, and secure payment options.
@@ -18,9 +16,9 @@
 
 ## Screenshots
 
-![Home Screen](link-to-home-screenshot.png)
-![Product Details](link-to-product-details-screenshot.png)
-![Shopping Cart](link-to-cart-screenshot.png)
+![Home Screen](/assets/images/Screenshot%202024-08-14%20133453.png)
+![Product Details](/assets/images/Screenshot%202024-08-14%20133524.png)
+![Shopping Cart](/assets/images/Screenshot%202024-08-14%20133719.png)
 
 ## Installation
 
